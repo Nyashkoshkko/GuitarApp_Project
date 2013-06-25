@@ -1,5 +1,5 @@
 # .a .o 파일 무시
 .[oa]
-/*/bin/
-gen/
+**/bin/
+**/gen/
 *.swp
